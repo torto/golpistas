@@ -1,7 +1,7 @@
 {
   "title": "Golpistas",
   "name": "golpistas",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Plugin para nomear golpistas.",
   "main": "index.js",
   "author": "Torto",

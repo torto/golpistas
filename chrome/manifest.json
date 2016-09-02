@@ -1,0 +1,21 @@
+﻿{
+"manifest_version": 2,
+    "name": "Golpistas",
+    "description": "Fora Temer.",
+    "version": "0.1",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+              "data/deputados.js",
+              "data/outrasfrases.js",
+              "data/partidos.js",
+              "data/senadores.js",
+              "data/golpistas.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
