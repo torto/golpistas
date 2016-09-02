@@ -5,7 +5,7 @@ console.log(listDeputadosGolpistas);
     var retorno = document.body.innerHTML;
     retorno = replaceListWordWithEnd(retorno, listSenadoresGolpistas, " Golpista");
     retorno = replaceListWordWithEnd(retorno, listDeputadosGolpistas, " Golpista");
-    retorno = replaceListWordWithEnd(retorno, listPartidoGolpista, " Antidemocrático");
+    // retorno = replaceListWordWithEnd(retorno, listPartidoGolpista, " Antidemocrático");
     retorno = replaceListWord(retorno, listWord);
     document.body.innerHTML = retorno;
 }
