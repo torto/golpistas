@@ -1,5 +1,3 @@
-window.addEventListener("DOMContentLoaded", init, false);
-
 function init() {
     var retorno = document.body.innerHTML;
     retorno = replaceListWordWithEnd(retorno, listSenadoresGolpistas, " Golpista", false);

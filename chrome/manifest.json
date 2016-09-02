@@ -18,7 +18,8 @@
             "data/outrasfrases.js",
             "data/partidos.js",
             "data/senadores.js",
-            "data/golpistas.js"
+            "data/golpistas.js",
+            "data/init.js"
         ],
         "run_at": "document_end"
     }]
