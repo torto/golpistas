@@ -1,0 +1,12 @@
+{
+  "title": "Golpistas",
+  "name": "golpistas",
+  "version": "0.0.1",
+  "description": "Plugin para nomear golpistas.",
+  "main": "index.js",
+  "author": "Torto",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
