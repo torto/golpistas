@@ -2,6 +2,10 @@
 Plugin que renomeia o nome de todos os Deputados e Senadores que apoiaram o golpe, para "Nome deputado Golpista". E todos os partidos que apoiaram o golpe, para "PXX Antidemocrático".
 Além disso coloca o nome da Dilma para Dilmãe
 
+#Download
+
+https://addons.mozilla.org/pt-BR/firefox/addon/golpistas/
+
 #Frases
 
 Detalhamento de todas as frases sobrescritas.
