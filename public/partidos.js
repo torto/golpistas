@@ -1,5 +1,4 @@
 var listPartidoGolpista = [
-    'PDT',
     'PSDB',
     'PV',
     'PP',
